@@ -133,6 +133,6 @@ App runs at:  http://localhost:5173
 ---
 
 ## 𑣲 Created by:
-- Ankita Tripathi 
-- 24bcs10062
+- Jasleen Chhabra 
+- 24bcs10045
 
